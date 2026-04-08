@@ -1,0 +1,20 @@
+# Environments
+.env
+.venv
+venv/
+
+# Python caching
+__pycache__/
+*.pyc
+
+# Project specific
+uploads/
+vector_store/
+
+# Node/React
+node_modules/
+build/
+.env.local
+
+# Markdown files
+*.md
